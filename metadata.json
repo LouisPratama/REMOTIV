@@ -1,0 +1,6 @@
+{
+  "name": "Remotiv — Platform Kerja Remote Berkelanjutan",
+  "description": "Platform kerja remote inklusif berbahasa Indonesia yang menghubungkan pencari kerja pemula, ibu rumah tangga, dan UMKM dengan peluang kerja fleksibel, pelatihan praktis, serta komunitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
